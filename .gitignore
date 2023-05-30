@@ -50,3 +50,6 @@ rsconnect/
 
 # Ignore boot/data
 /boot/data/
+
+# Ignore file
+*.Rproj
